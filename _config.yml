@@ -1,5 +1,4 @@
 title: "Andrea Vittorio Pozzi"
-#subtitle: "Herpetologist & Bioinformatician"
 author: "Blog Author"
 description: "Herpetologist & Bioinformatician"
 permalink: /:title/
@@ -21,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "pozzi.andrea95@outlook.com"}
+  - {title: Mail, icon: envelope, url: "mailto:pozzi.andrea95@outlook.com"}
   - {title: Github, icon: github, url: "https://github.com/avpozzi"}
 
 comments:
